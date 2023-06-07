@@ -23,6 +23,7 @@ public class Array3M {
 		}
 		
 		System.out.println(min);
+	System.out.println("Array Ptactice");
 		
 		
 		
